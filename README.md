@@ -1,0 +1,1 @@
+# dynamic-array-in-c-programing
